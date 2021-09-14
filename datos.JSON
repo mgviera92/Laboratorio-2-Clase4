@@ -1,0 +1,23 @@
+[
+    {
+
+        "id": 1,
+        "nombre": "Gabriela",
+        "apellido": "Viera",
+        "email": "asd@asda.com"
+    },
+    {
+
+        "id": 2,
+        "nombre": "Pepe",
+        "apellido": "Fernandez",
+        "email": "asdaffdff@kfsdk.es"
+    },
+    {
+        
+        "id": 3,
+        "nombre": "Gabriela",
+        "apellido": "Viera",
+        "email": "asd@asda.com"
+    }
+]
